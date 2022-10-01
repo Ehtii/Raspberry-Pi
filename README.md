@@ -17,4 +17,7 @@ This project is based on Raspberry pi 3B
 * OpenCV (If recording realtime video)
 
 ## Description
-* The rover robot is made up of stepper motors, ultra sonic sensors. The stepper motors have been used to record the steps taken by each tyre in a certain direction that leads to mathematical calculation for indicating the direction in real time. The robot moves on its a own like a lawn mover or vaccum clearner robot, sense the obstacles coming in its path and avoids them by changing the route. The body has been customly made so are tyres.
+The rover robot is made up of stepper motors, ultra sonic sensors. The stepper motors have been used to record the steps taken by each tyre in a certain direction that leads to mathematical calculation for indicating the direction in real time. The robot moves on its a own like a lawn mover or vaccum clearner robot, sense the obstacles coming in its path and avoids them by changing the route. The body has been customly made so are tyres.
+
+## Route plots
+![image](https://user-images.githubusercontent.com/63145855/193417102-c7d6199f-71ac-44f6-ac69-460776e44869.png)
